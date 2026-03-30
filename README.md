@@ -48,6 +48,12 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=imashirwadshri&theme=tokyo-night&hide_border=true&color=00BFFF&line=00BFFF&point=ffffff" />
 </p>
 
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/imashirwadshri/imashirwadshri/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 📬 Let's Connect  
 
 <p align="center">
