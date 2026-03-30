@@ -1,6 +1,8 @@
 # Hi 👋, I'm Ashirwad Shrivastava  
 
-🚀 **Aspiring Data Analyst | Turning Data into Insights**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Building+Dashboards+%26+Insights;Turning+Data+into+Decisions" />
+</p>
 
 ---
 
@@ -8,42 +10,22 @@
 🎓 B.Tech in Electronics & Communication (ECE)  
 📊 Passionate about Data Analysis & Visualization  
 📈 Love working with real-world datasets  
-💡 Goal: To become a skilled Data Analyst  
+💡 Goal: Data Analyst in IT Company  
 
 ---
 
 ## 🔥 Currently Working On  
 📊 Power BI Dashboard Projects  
 🐍 Python (Pandas, NumPy)  
-📈 Advanced Excel Data Analysis  
+📈 Advanced Excel  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Skills  
 
-💻 **Programming:**  
-Python | SQL  
-
-📊 **Data Tools:**  
-Excel | Power BI  
-
-📈 **Core Skills:**  
-Data Cleaning | Data Visualization | Dashboard Creation | Reporting  
-
----
-
-## 📊 Projects  
-
-🛒 **E-commerce Sales Dashboard**  
-→ Built interactive dashboard using Power BI  
-
-📈 **Super Store Sales Analysis**  
-→ Analyzed sales & profit using DAX  
-
----
-
-## 📫 Connect With Me  
-📧 ashirwadshri@gmail.com  
+💻 Python | SQL  
+📊 Excel | Power BI  
+📈 Data Cleaning | Visualization | Dashboard  
 
 ---
 
@@ -55,4 +37,4 @@ Data Cleaning | Data Visualization | Dashboard Creation | Reporting
 
 ---
 
-⭐ *"Data is the new oil, and I love refining it into insights."*
+⭐ *"Data is the new oil 🚀"*
