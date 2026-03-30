@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imashirwadshri&label=Profile%20Views&color=00bfff&style=for-the-badge" width="300"/>
+  <img src="https://komarev.com/ghpvc/?username=imashirwadshri&label=Profile%20Views&color=FF0000&style=for-the-badge" width="300"/>
 </p>
 
 ## 🙋‍♂️ About Me  
@@ -48,3 +48,28 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=imashirwadshri&theme=tokyo-night&hide_border=true&color=00BFFF&line=00BFFF&point=ffffff" />
 </p>
 
+## 📬 Let's Connect  
+
+<p align="center">
+  
+  <a href="mailto:ashirwadshri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/YOUR-FB-ID">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/YOUR-INSTA-ID">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/918252848499">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+</p>
