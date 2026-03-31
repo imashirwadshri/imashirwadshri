@@ -41,18 +41,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=imashirwadshri&theme=tokyonight&hide_border=true&ring=00BFFF&fire=FF0000&currStreakLabel=00BFFF" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=imashirwadshri&theme=tokyonight&hide_border=true&ring=FFFF00&fire=FF0000&currStreakLabel=FFFFFF" />
   
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=imashirwadshri&theme=tokyo-night&hide_border=true&color=00BFFF&line=00BFFF&point=ffffff" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=imashirwadshri&theme=tokyo-night&hide_border=true&color=FFFFFF&line=00BFFF&point=ffffff" />
 </p>
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/imashirwadshri/imashirwadshri/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ## 📬 Let's Connect  
 
