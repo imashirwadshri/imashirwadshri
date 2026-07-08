@@ -25,11 +25,12 @@
 
 ## 🔥 Currently Building  
 
-- 🚀 **Power BI Dashboards** → real-world data insights  
-- 📊 **Data Analysis** → Excel • SQL • Python  
-- 🐍 **Python Projects** → Pandas & NumPy  
-- 📈 **Data Visualization** → charts & storytelling  
-- 💡 **Portfolio Projects** → Data Analyst ready
+- 📡 Communication & Networking Projects → TCP/IP • OSI • Wireless Communication
+- 🤖 Embedded Systems → Arduino • Sensor Interfacing • Microcontrollers
+- 🌐 IoT Projects → GSM • GPS • Smart Automation
+- 💻 C & Python Projects → Embedded Programming & Automation
+- 🚀 Building Portfolio for Telecom, Embedded & Network Engineering Roles
+
 ## 🛠️ Technical Toolkit  
 
 | 🚀 Category        | 💡 Skills |
