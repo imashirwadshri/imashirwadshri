@@ -51,11 +51,7 @@
 </p>
 
 
-<h2 align="center">📈 Contribution Graph</h2>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light&hide_border=true"/>
-</p>
 
 ## 📬 Let's Connect
 
