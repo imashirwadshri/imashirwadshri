@@ -52,9 +52,6 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=imashirwadshri&theme=tokyo-night&hide_border=true&color=FFFFFF&line=00BFFF&point=ffffff" />
 </p>
 
-
-## 📬 Let's Connect  
-
 ## 📬 Let's Connect
 
 <p align="center">
