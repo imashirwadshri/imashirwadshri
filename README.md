@@ -18,7 +18,7 @@
 - 🚀 Open to Telecom, Network Engineer & Embedded Engineer Opportunities
 - 📚 Currently Learning CCNA, Python & Network Fundamentals
 - 📫 Contact Me:
-- 
+
    - 📧 ashirwadshri@gmail.com
    - 📱 +91 8252848499
  
