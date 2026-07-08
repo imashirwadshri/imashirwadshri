@@ -55,26 +55,42 @@
 
 ## 📬 Let's Connect
 
+
 <p align="center">
+
 <a href="mailto:ashirwadshri@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ashirwad-shrivastava/">
+<a href="https://linkedin.com/in/YOURUSERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/imashirwadshri">
+<a href="https://github.com/YOURUSERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/imashirwadshri">
+<a href="https://instagram.com/anshirvlogs">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/918252848499">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/Resume/Ashirwad_Resume.pdf">
+
+<img src="https://img.shields.io/badge/⬇️%20Download%20My%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+
+</a>
+
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0077FF,100:8A2BE2&height=120&section=footer"/>
