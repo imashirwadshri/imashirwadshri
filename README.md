@@ -31,15 +31,16 @@
 - 💻 C & Python Projects → Embedded Programming & Automation
 - 🚀 Building Portfolio for Telecom, Embedded & Network Engineering Roles
 
-## 🛠️ Technical Toolkit  
+## 🛠️ Technical Toolkit
 
-| 🚀 Category        | 💡 Skills |
-|------------------|----------|
-| 💻 **Programming** | 🐍 Python • 🗄️ SQL |
-| 📊 **Data Tools**  | 📗 Excel • 📊 Power BI |
-| 📈 **Data Skills** | 📊 Data Cleaning • 📈 Visualization • 📋 Reporting • 📊 Dashboard Creation |
-| 🧠 **Libraries**   | 🐼 Pandas • 🔢 NumPy |
-| ⚙️ **Tools**      | 🛠️ Git • 💻 VS Code |
+| 🚀 Category | 💡 Skills |
+|-------------|-----------|
+| 💻 Programming | C • Embedded C • Basic Python |
+| 📡 Communication & Networking | TCP/IP • OSI Model • Wireless Communication • Mobile Communication |
+| 🤖 Embedded Systems | Arduino Uno • Sensor Interfacing • UART • I2C • SPI • ADC/DAC |
+| 🌐 IoT & Hardware | IoT • GSM Module • GPS Module • Electronic Circuits |
+| ⚙️ Industrial Automation | PLC • SCADA • Instrumentation & Measurement |
+| 🧰 Tools & Software | Arduino IDE • Proteus • MATLAB (Basic) • Git • VS Code |
 
 ## 📊 GitHub Stats  
 
