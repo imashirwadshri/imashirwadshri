@@ -55,28 +55,29 @@
 
 ## 📬 Let's Connect  
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=📬+Let's+Connect;Ashirwad+Shrivastava;Open+to+Telecom+%7C+Network+Engineer+Roles;Always+Happy+to+Connect!+🚀" />
-</h2>
+## 📬 Let's Connect
 
 <p align="center">
-
 <a href="mailto:ashirwadshri@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Ashirwad%20Shrivastava-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/💼%20Ashirwad%20Shrivastava-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOURUSERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-<img src="https://img.shields.io/badge/💻%20Ashirwad%20Shrivastava-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/YOURUSERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR-INSTAGRAM">
-<img src="https://img.shields.io/badge/📸%20Ashirwad%20Shrivastava-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/anshirvlogs">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://wa.me/918252848499">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
 <a href="https://wa.me/918252848499">
 <img src="https://img.shields.io/badge/💬%20Ashirwad%20Shrivastava-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
