@@ -12,13 +12,14 @@
 
 ## 🙋‍♂️ About Me  
 
-- 🎓 B.Tech (ECE) Student | Class of 2026  
-- 📊 Working on Data Analysis & Dashboard Projects  
-- 💬 Ask me about Excel, SQL, Python & Power BI  
-- 🚀 Open to Data Analyst Opportunities  
-- 📫 Contact Me:  
-  - 📧 ashirwadshri@gmail.com  
-  - 📞 +91 8252848499
+- 🎓 B.Tech (Electronics & Communication Engineering) | Class of 2026
+- 💻 Interested in Telecom, Networking & Embedded Systems
+- 📡 Working on Arduino, IoT, Computer Networks & Python Projects
+- 🚀 Open to Telecom, Network Engineer & Embedded Engineer Opportunities
+- 📚 Currently Learning CCNA, Python & Network Fundamentals
+- 📫 Contact Me:
+   - 📧 ashirwadshri@gmail.com
+   - 📱 +91 8252848499
  
 
 ## 🔥 Currently Building  
