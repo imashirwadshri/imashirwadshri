@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashirwad Shrivastava</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Data+Visualization+Expert;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Love+Building+Dashboards;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=Ashirwad+Shrivastava;Electronics+%26+Communication+Engineer;Embedded+Systems+Developer;Communication+Networks+Enthusiast;IoT+%7C+Arduino+%7C+C+%7C+Python;Open+to+Telecom+Engineer+Opportunities" />
 </p>
-
 
 
 <p align="center">
