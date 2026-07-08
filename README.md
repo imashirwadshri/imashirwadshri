@@ -84,9 +84,9 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/Resume/Ashirwad_Resume.pdf">
+<a href="https://drive.google.com/uc?export=download&id=1ykNnjg2YJEizMLYsr0J6Wqj_DzIjdwhB">
 
-<img src="https://img.shields.io/badge/⬇️%20Download%20My%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/📄%20Download%20My%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 
 </a>
 
