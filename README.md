@@ -55,26 +55,26 @@
 
 ## 📬 Let's Connect  
 
-<h2>📬 Let's Connect</h2>
-
 <p align="center">
-  <a href="mailto:ashirwadshri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="mailto:ashirwadshri@gmail.com">
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60"/>
+</a>
 
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="60"/>
+</a>
 
-  <a href="https://instagram.com/YOUR-ID">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<a href="https://github.com/YOURUSERNAME">
+<img src="https://img.icons8.com/ios-filled/100/github.png" width="60"/>
+</a>
 
-  <a href="https://wa.me/918252848499">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+<a href="https://instagram.com/YOURID">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60"/>
+</a>
+
+<a href="https://wa.me/918252848499">
+<img src="https://img.icons8.com/color/96/whatsapp.png" width="60"/>
+</a>
+
 </p>
