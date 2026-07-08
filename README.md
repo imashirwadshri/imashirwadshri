@@ -77,12 +77,6 @@
 <a href="https://wa.me/918252848499">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-</p>
-<a href="https://wa.me/918252848499">
-<img src="https://img.shields.io/badge/💬%20Ashirwad%20Shrivastava-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0077FF,100:8A2BE2&height=120&section=footer"/>
